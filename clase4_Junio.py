@@ -1,3 +1,6 @@
-print(234+293-234)
+nombre = "Maxi"
+edad = 28
 
-""" fasdfasd """
+print(nombre, "tiene", edad, "años")
+
+
